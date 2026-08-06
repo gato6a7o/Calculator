@@ -1,4 +1,4 @@
 # Calculator
 Calculator made with HTML, CSS &amp; JavaScript
 
-https://noruii.github.io/Calculator/
+https://gato6a7o.github.io/Calculator/
